@@ -43,6 +43,7 @@ _You can get in touch with me with any of these. I'm open to work and also to st
 
 * [GITHUB 😺](https://github.com/francorueta)
 * [LINKEDIN 📘](https://www.linkedin.com/in/rueta-franco/)
+* [EMAIL 📫](ruetafranco@gmail.com)
 
 ## Thanks to 🎁
 
