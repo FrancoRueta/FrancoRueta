@@ -26,8 +26,8 @@ _And these frameworks_
 
 ## Education 🎓
 
-I'm currently on my way to get a degree in programming, in the **UNAHUR** (Universidad Nacional de Hurlingham). i'm currently on the middle of the course_
-_Also, i've been studying and learning from other places, this last year i meet **Alkemy**, which is a training enterprise in which i developed not my 'coding',
+I'm currently on my way to get a degree in programming, in the **UNAHUR** (Universidad Nacional de Hurlingham). i'm currently on the middle of the course
+Also, i've been studying and learning from other places, this last year i meet **Alkemy**, which is a training enterprise in which i developed not my 'coding',
 but mostly, my soft skills, i'm working with a team and we're learning the current technologies and metodologies, such as SCRUM/Agile development, strong
 communication, adaptability, team-working, and more.
 
@@ -41,9 +41,8 @@ travel this path. I want to become a skillful developer, and also, a comfortable
 
 _You can get in touch with me with any of these. I'm open to work and also to starting new exciting projects! 😁_
 
-* [GITHUB 😺](https://github.com/francorueta)
-* [LINKEDIN 📘](https://www.linkedin.com/in/rueta-franco/)
-* [EMAIL 📫](ruetafranco@gmail.com)
+* LinkedIn 📘 https://www.linkedin.com/in/rueta-franco/
+* EMAIL 📫 ruetafranco@gmail.com
 
 ## Thanks to 🎁
 
