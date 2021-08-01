@@ -42,7 +42,7 @@ communication, adaptability, team-working, and more.
  
  ## Contact ✒️📋
 
-_You can get in touch with me with any of these. I'm open to work and also to starting new exciting projects! 😁_
+You can get in touch with me with any of these I'd love to hear your ideas.
 
 <a href = "mailto:ruetafranco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rueta-franco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin logoColor=white" target="_blank"></a>
