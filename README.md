@@ -29,20 +29,19 @@
  ## About me 🚀
 
 My name is Franco Rueta! I'm a backend developer from Argentina, With 3 years of experience in the world of programming. 
-Since i got into programming, i've been learning and taking acknowledge from every place i could
+Since i started, i've been learning and taking acknowledge from any source at my reach.
  
  ## Education 🎓
 
-I'm currently on my way to get a degree in programming, in the **UNAHUR** (Universidad Nacional de Hurlingham). i'm currently on the middle of the course
-Also, i've been studying and learning from other places, this last year i meet **Alkemy**, which is a training enterprise in which i developed not my 'coding',
+I'm currently halfway to graduating with a degree in programming , in the **UNAHUR** (Universidad Nacional de Hurlingham). Besides college i've been studying and learning from other places, this last year i meet **Alkemy**, which is a training enterprise in which i developed not my coding,
 but mostly, my soft skills, i'm working with a team and we're learning the current technologies and metodologies, such as SCRUM/Agile development, strong
 communication, adaptability, team-working, and more.
  
  ## Contact ✒️📋
 
-You can get in touch with me with any of these I'd love to hear your ideas.
+You can get in touch with me with any of these. I'd love to hear your ideas.
 
-<a href = "mailto:ruetafranco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:ruetafranco@gmail.com?subject=Github%20mail%20request"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rueta-franco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin logoColor=white" target="_blank"></a>
  
  
