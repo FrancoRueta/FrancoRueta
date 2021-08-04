@@ -21,7 +21,7 @@
  
 <div align="center">
  
-  ![Snake animation](https://github.com/FrancoRueta/FrancoRueta/blob/main/snake-francorueta.svg)
+  ![Snake animation](https://github.com/FrancoRueta/FrancoRueta/blob/main/github-user-contributio4-8-21.svg)
  
 </div>
  
