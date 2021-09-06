@@ -28,14 +28,13 @@
  
  ## About me 🚀
 
-My name is Franco Rueta! I'm a backend developer from Argentina, With 3 years of experience in the world of programming. 
-Since i started, i've been learning and taking acknowledge from any source at my reach.
+My name is Franco Rueta! I'm a developer from Argentina, With 3 years of experience in the world of programming. 
+Always trying to learn new technologies. Im currently working for huenei, an argentinian company.
  
  ## Education 🎓
 
 I'm currently halfway to graduating with a degree in programming , in the **UNAHUR** (Universidad Nacional de Hurlingham). Besides college i've been studying and learning from other places, this last year i meet **Alkemy**, which is a training enterprise in which i developed not my coding,
-but mostly, my soft skills, i'm working with a team and we're learning the current technologies and metodologies, such as SCRUM/Agile development, strong
-communication, adaptability, team-working, and more.
+but mostly, my soft skills and team-working capabilities.
  
  ## Contact ✒️📋
 
