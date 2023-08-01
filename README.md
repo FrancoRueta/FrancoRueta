@@ -20,7 +20,7 @@
  
  ## About me 🚀
 
-My name is Franco Rueta! I'm a developer from Argentina, With 3 years of experience in the world of programming. 
+My name is Franco Rueta! I'm a developer from Argentina, With 5 years of experience in the world of programming. 
 Always trying to learn new technologies. Im currently working for huenei, an argentinian company.
  
  ## Education 🎓
